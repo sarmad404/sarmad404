@@ -1,7 +1,8 @@
 # Hi there, I'm Sarmad! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sarmad426?label=Follow&style=social)](https://github.com/sarmad426)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/sarmad426/](https://www.linkedin.com/in/sarmad426/)](https://www.linkedin.com/in/sarmad426/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad426/)
+
 
 ---
 
